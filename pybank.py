@@ -29,26 +29,6 @@ print(f"total months: {max(monthcounter)}")
 print(f"total profit is: {max(profitsbymonth)}")
 print(f"here is my max profit {max(profitlist)}")
 print(f"here is my min profit {min(profitlist)}")
-    # csvwriter = csv.writer(csvfile, delimiter=',')
-    # for row in csvreader:
-    #     csvwriter.writerows()
+
 
     
-
-
-
-
-
-
-# * The average of the changes in "Profit/Losses" over the entire period
-
-
-#greatest increase in profits date and amount over the entire period
-    #need to write new column for change
-    #loop to find greatest value
-
-
-#greatest decrease in profits date and amount over the entire period
-    #use column for change and loop to find smallest value
-
-#print total months, total profit/loss, average change, greatest increase and greatest decrease
